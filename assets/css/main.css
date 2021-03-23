@@ -244,24 +244,6 @@ input, select, textarea {
 	}
 
 
-/*Vertical Tiles */
-	.tile{
-	align-items: stretch;
-    display: block;
-    flex-basis: 0;
-    flex-grow: 1;
-    flex-shrink: 1;
-    min-height: min-content;
-	}
-
-		.tile.isancestor{
-			margin-left: -.75rem;
-			margin-right: -.75rem;
-			margin-top: -.75rem
-		}
-		.tile.isvertical{
-		    flex-direction: column	
-		}
 
 /* Container */
 
@@ -310,6 +292,15 @@ input, select, textarea {
 				max-width: calc(100% - 3em);
 			}
 
+		}
+	.espan {
+		display: inline-block;
+		padding: 6px 6px 2px;
+		border-radius: 10px;
+		background: inherit;
+		margin-right: -2px;
+		justify-content: center;
+		border: solid 2px rgb(25, 201, 142);
 		}
 
 /* Row */
@@ -2401,13 +2392,13 @@ input, select, textarea {
 			width:auto;
 			display: block;
 			margin-top: 20px;
-			margin-bottom: 68px;
+			margin-bottom: 62px;
 		}
 
 		.image.left {
 			float: left;
-			padding: 0px 50px 0px 10px;
-			bottom: 20px;
+			padding: 5px 40px 0px 10px;
+			bottom: 10px;
 			width: 21%;
 		}
 
