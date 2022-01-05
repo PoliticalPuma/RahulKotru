@@ -11,7 +11,7 @@
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/High-Voltage.gif" width="18px"> I’m currently researching on Deep Learning and it's applications in Remote Sensing
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Man-Technologist.gif" width="18px"> I’m looking to collaborate with other developers and software engineers
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/mechanical-arm.gif" width="18px"> 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
-- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/file_76508.gif" width="18px"> This page has not been under-utilized 
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/file_76508.gif" width="18px"> This page has been under-utilized 
 
 
 ### Connect with me:
