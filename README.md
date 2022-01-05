@@ -1,4 +1,5 @@
-### Hello there, I'm Rahul - aka [PoliticalPuma][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/waving-hand.gif" width="30px">
+### Hello there, <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/waving-hand.gif" width="30px">
+## I'm [Rahul][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Hundred-Points.gif" width="25px">
 
 
 [![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)
