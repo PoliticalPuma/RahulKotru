@@ -1,4 +1,4 @@
-### Hi there, I'm Rahul - aka [PoliticalPuma][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/waving-hand.gif" width="30px">
+### Hello there, I'm Rahul - aka [PoliticalPuma][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/waving-hand.gif" width="30px">
 
 
 [![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)
@@ -6,17 +6,17 @@
 
 ## I'm a Researcher, Developer, Engineer and Tech-enthusiast
 
-- 🔭 I love star-gazing!
-- ⚡ I’m currently learning   🌱🤣
-- 👯 I’m looking to collaborate with other developers and software engineers
-- 🥅 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Sparkles.gif" width="18px"> I love star-gazing!
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/High-Voltage.gif" width="18px"> I’m currently learning 
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Man-Technologist.gif" width="18px"> I’m looking to collaborate with other developers and software engineers
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/mechanical-arm.gif" width="18px"> 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" style="color:#adff2f;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  alt="rahulkotru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -24,10 +24,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -56,7 +56,7 @@
 
 <!-- YOUTUBE:END -->
 
-➡️ [more coming soon...]
+➡️ [more in progress...]
 
 ---
 
@@ -67,6 +67,5 @@
 
 
 [website]: https://rahulkotru.github.io/RahulKotru/
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+
 [linkedin]: https://linkedin.com/in/rahulkotru
