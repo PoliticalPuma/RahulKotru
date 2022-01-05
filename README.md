@@ -7,7 +7,7 @@
 
 - 🔭 I love star-gazing!
 - ⚡ I’m currently learning   🌱🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and software engineers
 - 🥅 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
 
 
