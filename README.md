@@ -1,4 +1,5 @@
-### Hi there, I'm Rahul - aka [PoliticalPuma][website] 👋 
+### Hi there, I'm Rahul - aka [PoliticalPuma][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/waving-hand.gif" width="30px">
+
 
 [![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)
 
@@ -13,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" style="color:#adff2f;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -48,7 +49,7 @@
 
 ---
 
-### 📕 My Research Publications
+###  My Research Publications📕<img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Writing-Hand.gif" width="30px">
 
 <!-- YOUTUBE:START -->
 - [Semantic Segmentation of PolSAR Images for Various Land Cover Features](https://ieeexplore.ieee.org/abstract/document/9554297)
