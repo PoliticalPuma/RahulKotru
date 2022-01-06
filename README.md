@@ -12,6 +12,8 @@
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Man-Technologist.gif" width="18px"> I’m looking to collaborate with other developers and software engineers
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/mechanical-arm.gif" width="18px"> 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/file_76508.gif" width="18px"> This page has been under-utilized 
+<br/>
+
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkotru&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
