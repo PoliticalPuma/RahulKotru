@@ -2,7 +2,7 @@
 ## I'm [Rahul][website] <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Hundred-Points.gif" width="25px">
 
 
-[![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)       ![](https://komarev.com/ghpvc/?username=rahulkotru&label=PROFILE+VIEWS)
+[![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)       ![](https://komarev.com/ghpvc/?username=rahulkotru&label=PROFILE+VIEWS&style=plastic)
 
 
 ## I'm a Researcher, Developer, Engineer and Tech-enthusiast
