@@ -14,7 +14,7 @@
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/file_76508.gif" width="18px"> This page has been under-utilized 
 <br/>
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkotru&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkotru&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkotru&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
