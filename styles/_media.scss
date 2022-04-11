@@ -57,10 +57,10 @@
     }
 
     .section{
-        padding: 2rem 2.5rem !important;
+        padding: 2rem 1rem !important;
         .main-title{
             .bg-text{
-                color: var(--color-primary);
+                display: none;
             }
         }
     }
@@ -69,6 +69,9 @@
     .blogs{
         grid-template-columns: 1fr;
         padding-bottom: 6rem;
-        margin:  auto 1.5rem;
+        margin-right: 1rem;
+        .blog{
+            padding: 1rem;
+        }
     }
 }

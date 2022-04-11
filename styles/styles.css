@@ -1134,16 +1134,19 @@ section {
     padding-bottom: 6rem;
   }
   .section {
-    padding: 2rem 2.5rem !important;
+    padding: 2rem 1rem !important;
   }
   .section .main-title .bg-text {
-    color: var(--color-primary);
+    display: none;
   }
   .blogs {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     padding-bottom: 6rem;
-    margin: auto 1.5rem;
+    margin-right: 1rem;
+  }
+  .blogs .blog {
+    padding: 1rem;
   }
 }
 /*# sourceMappingURL=styles.css.map */
