@@ -1143,7 +1143,7 @@ section {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
     padding-bottom: 6rem;
-    margin: auto 2rem;
+    margin: auto 1.5rem;
   }
 }
 /*# sourceMappingURL=styles.css.map */
