@@ -1139,5 +1139,11 @@ section {
   .section .main-title .bg-text {
     color: var(--color-primary);
   }
+  .blogs {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    padding-bottom: 6rem;
+    margin: auto 2rem;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
