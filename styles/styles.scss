@@ -641,7 +641,8 @@ section{
             :last-child{
                 margin-left: 1.5rem;
             }
-        }
+        }.sbmt{
+            margin-bottom: 2rem;
         .bitin{
             justify-content: flex-start;
             margin: .5rem 4.5rem;
@@ -663,7 +664,8 @@ section{
             margin: 1.5rem 4.5rem;
             display: flex;
             justify-content: flex-start;
-        }
+        }}
+
     }
 }
 .status {
