@@ -1095,6 +1095,9 @@ section {
   .header-content .left-header .image {
     margin: 0 auto;
   }
+  .header-content .right-header .btn-con {
+    margin-bottom: 4rem;
+  }
   .controls {
     top: auto;
     bottom: 0;
@@ -1134,7 +1137,8 @@ section {
     padding-bottom: 6rem;
   }
   .section {
-    padding: 2rem 1rem !important;
+    padding: 2rem 2rem !important;
+    margin-right: 2rem !important;
   }
   .section .main-title .bg-text {
     display: none;
