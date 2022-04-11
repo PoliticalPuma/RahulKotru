@@ -413,6 +413,7 @@ section {
   display: grid;
   -ms-grid-columns: (1fr)[2];
       grid-template-columns: repeat(2, 1fr);
+  height: 20px;
   grid-gap: 2rem;
   row-gap: 1rem;
   margin-right: 8rem;
@@ -425,7 +426,6 @@ section {
   transition: all .4s ease-in-out;
   -webkit-box-shadow: 1px 2px 15px rgba(0, 0, 0, 0.1);
           box-shadow: 1px 2px 15px rgba(0, 0, 0, 0.1);
-  height: 12rem;
 }
 
 .about-container .right-about .about-item:hover {
@@ -1119,6 +1119,46 @@ section {
   }
   .about-container .right-about {
     padding-top: 2.5rem;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .about-container .left-about {
+    padding: 0;
+  }
+  .about-container .left-about p {
+    margin-left: 0;
+  }
+  .timeline {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    padding-bottom: 6rem;
+  }
+  .section {
+    padding: 2rem 1rem !important;
+  }
+  .section .main-title .bg-text {
+    display: none;
+  }
+  .blogs {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    padding-bottom: 6rem;
+    margin-right: 1rem;
+  }
+  .blogs .blog {
+    padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .about-container {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .about-container .right-about {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    height: auto;
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }

@@ -305,6 +305,7 @@ section{
     .right-about{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        height: 20px;
         grid-gap: 2rem;
         row-gap: 1rem;
         margin-right: 8rem;
@@ -313,7 +314,7 @@ section{
             border-radius: 5px;
             transition: all .4s ease-in-out;
             box-shadow: 1px 2px 15px rgba(0,0,0,.1);
-            height: 12rem;
+            
             &:hover{
                 cursor: default;
                 transform: translateY(-5px);

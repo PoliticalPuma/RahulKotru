@@ -75,3 +75,46 @@
         }
     }
 }
+
+@media screen and (max-width: 1200px){
+    .about-container{
+        grid-template-columns: 1fr;
+        .right-about{
+            padding-top: 2.5rem;
+            padding-bottom: 2.5rem;
+            height: auto;
+            grid-template-columns: 1fr;
+        }
+        .left-about{
+            padding: 0;
+            p{
+                margin-left: 0;
+            }
+        }
+    }
+
+    .timeline{
+        grid-template-columns: 1fr;
+        padding-bottom: 6rem;
+    }
+
+    .section{
+        padding: 2rem 1rem !important;
+        .main-title{
+            .bg-text{
+                display: none;
+            }
+        }
+    }
+
+    .blogs{
+        grid-template-columns: 1fr;
+        padding-bottom: 6rem;
+        margin-right: 1rem;
+        .blog{
+            padding: 1rem;
+        }
+    }
+
+}
+
