@@ -83,6 +83,9 @@
 
     .contact-content-con{
         flex-direction: column;
+        .left-contact{
+            margin-right: 3rem;
+        }
         .right-contact{
             margin-left: 0;
             margin-top: 2.5rem;
