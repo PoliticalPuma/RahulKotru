@@ -79,6 +79,15 @@
         .blog{
             padding: 1rem;
         }
+        .blog2{
+            .img1{
+                display: none;
+            }
+            .img2{
+                display: block;
+            }
+            
+        }
     }
 
     .contact-content-con{
@@ -96,6 +105,8 @@
         margin-left: 0;
         margin-top: 1.5rem;
     }
+
+    
     
 }
 
@@ -155,7 +166,7 @@
     }
 
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width:800px){
     .contact-content-con{
         flex-direction: column;
         .right-contact{
@@ -163,4 +174,6 @@
             margin-top: 2.5rem;
         }
     }
+    
+    
 }
