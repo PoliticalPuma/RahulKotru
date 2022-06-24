@@ -7,7 +7,7 @@
 
 ## I'm a Researcher, Developer, Engineer and Tech-enthusiast
 
-- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Sparkles.gif" width="18px"> I love star-gazing!
+- <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Sparkles.gif" width="10px"> I love star-gazing!
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/High-Voltage.gif" width="18px"> I’m currently researching on Deep Learning and it's applications in Remote Sensing
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Man-Technologist.gif" width="18px"> I’m looking to collaborate with other developers and software engineers
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/mechanical-arm.gif" width="18px"> 2022 Goals: Contribute more to Open Source, Deep Learning and Computer Vision projects
