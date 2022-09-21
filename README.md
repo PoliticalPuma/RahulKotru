@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/github/followers/rahulkotru?label=rahulkotru&style=social)](https://github.com/rahulkotru)      
 
 
-## I'm a Researcher, Developer, Engineer and Tech-enthusiast
+## I'm a Computer Vision Engineer and Tech-enthusiast
 
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/Sparkles.gif" width="10px"> I love star-gazing!
 - <img src="https://raw.githubusercontent.com/rahulkotru/RahulKotru/master/High-Voltage.gif" width="18px"> I’m currently researching on Deep Learning and it's applications in Remote Sensing
