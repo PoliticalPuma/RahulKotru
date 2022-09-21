@@ -59,6 +59,7 @@
 
 <!-- YOUTUBE:START -->
 - [Semantic Segmentation of PolSAR Images for Various Land Cover Features](https://ieeexplore.ieee.org/abstract/document/9554297)
+- [Development of a generalized model to classify various land covers for ALOS-2 L-Band images using semantic segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0273117722007116)
 
 <!-- YOUTUBE:END -->
 
